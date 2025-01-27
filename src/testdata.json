@@ -1,0 +1,20 @@
+[
+    {
+        "tab": "Web Application",
+        "column": "To Do",
+        "task": "Implement user authentication",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "tab": "Web Application",
+        "column": "To Do",
+        "task": "Fix navigation bug",
+        "tags": ["Bug"]
+    },
+    {
+        "tab": "Web Application",
+        "column": "In Progress",
+        "task": "Design system updates",
+        "tags": ["Design"]
+    }
+]
